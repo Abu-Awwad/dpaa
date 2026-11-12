@@ -1,0 +1,25 @@
+
+{
+  "name": "Download Abu Awwad",
+  "id": "com.abuawwad.downloader",
+  "version": "1.0.0",
+  "version_code": 1,
+  "platform": "PlayStation 4",
+  "format": "PKG",
+  "author": "Abu Awwad",
+  "discord": ".qqmi",
+  "copyright": "Right, ابو عواض",
+  "assets": {
+    "logo": "Download_Abu_Awwad.png"
+  },
+  "download": {
+    "provider": "Gofile",
+    "resume_support": true,
+    "integrity_check": true
+  },
+  "interface": {
+    "language": "ar",
+    "theme": "dark",
+    "style": "minimal"
+  }
+}
