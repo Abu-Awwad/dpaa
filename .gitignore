@@ -1,0 +1,32 @@
+
+# Build files
+build/
+dist/
+out/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Compiled files
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.pkg
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
